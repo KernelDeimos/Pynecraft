@@ -1,0 +1,24 @@
+[21:47:59] [Server thread/INFO]: Starting minecraft server version 1.8.1
+[21:47:59] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[21:47:59] [Server thread/INFO]: Loading properties
+[21:47:59] [Server thread/INFO]: Default game type: SURVIVAL
+[21:47:59] [Server thread/INFO]: Generating keypair
+[21:47:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:47:59] [Server thread/INFO]: Using default channel type
+[21:47:59] [Server thread/INFO]: Preparing level "world"
+[21:48:00] [Server thread/INFO]: Preparing start region for level 0
+[21:48:01] [Server thread/INFO]: Preparing spawn area: 56%
+[21:48:01] [Server thread/INFO]: Done (1.952s)! For help, type "help" or "?"
+[21:48:10] [Server thread/INFO]: [Server] test
+[21:48:11] [Server thread/INFO]: [Server] onion
+[21:48:12] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[21:48:17] [Server thread/INFO]: [Server] Cheese!
+[21:49:02] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[21:49:02] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[21:49:08] [Server thread/INFO]: Stopping the server
+[21:49:08] [Server thread/INFO]: Stopping server
+[21:49:08] [Server thread/INFO]: Saving players
+[21:49:08] [Server thread/INFO]: Saving worlds
+[21:49:08] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:49:08] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[21:49:08] [Server thread/INFO]: Saving chunks for level 'world'/The End
