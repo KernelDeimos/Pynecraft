@@ -141,9 +141,7 @@ class PynConsole():
 
 def main():
 	print("Pynecraft Server Launcher")
-	print("Copyright (C) 2015 Eric Dube, All Rights Reserved")
-	print("When I'm bored I'll put this under")
-	print("some good open-source license\n")
+	print("By KernelDeimos - MIT License\n")
 
 	# TODO: Make load from a config file
 	#jarfile = 'minecraft_server.1.8.1.jar'
